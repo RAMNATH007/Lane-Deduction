@@ -1,2 +1,4 @@
 # Lane-Deduction
-This repository documents my code as i learn open cv.
+1.Importing the python package opencv 
+2.Using a video file lane deducton is done
+
